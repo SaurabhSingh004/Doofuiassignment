@@ -1,0 +1,28 @@
+.bubble1{
+    top: -276px;
+    left: 836px;
+    width: 920px;
+    height: 920px;
+    background:#FFE999;
+    border-radius: 50%;
+    position: absolute;
+  }
+  .bubble2{
+    top: -255px;
+    left: -255px;
+    width: 500px;
+    height: 500px;
+    background:#F8F8F8;
+    border-radius: 50%;
+    position: absolute;
+  }
+  .bubble3{
+    top: 550px;
+    left: 325px;
+    width: 400px;
+    height: 400px;
+    background:#F8F8F8;
+    border-radius: 50%;
+    position: absolute;
+  }
+  
